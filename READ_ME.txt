@@ -1,0 +1,2 @@
+- I set the raleway font family in a variable name , this is to ensure that in the future , changing it one place , changes it everywhere. 
+- After consideration i chose to use Axios to fetch the data rather than the native JS fetch API , this is because , the native fetch do not have backward compatibilty to old browsers , but axios do.
